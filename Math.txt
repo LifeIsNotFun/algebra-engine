@@ -1,0 +1,2 @@
+ARRANGE 3*x-y=7;
+ARRANGE 2*x+3*y=1;
